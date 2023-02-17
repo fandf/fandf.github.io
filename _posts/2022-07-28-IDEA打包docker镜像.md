@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 通过elastalert2对elk中的日志进行邮件报警
+title: IDEA打包docker镜像
 date: 2022-07-28
 tags: [docker]
 description: 保持学习，保持热爱。
