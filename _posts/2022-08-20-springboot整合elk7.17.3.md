@@ -1,12 +1,12 @@
 ---
 layout: post
 title: springboot整合elk7.17.3
-date: 2022-07-28
+date: 2022-8-20
 tags: [docker, java]
 description: 保持学习，保持热爱。
 ---
 
-[elk环境搭建](http://fandf.top/2022/07/10/IDEA%E6%89%93%E5%8C%85docker%E9%95%9C%E5%83%8F/) \
+[elk环境搭建](http://fandf.top/2022/07/10/ELK7.17.3%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/) \
 [idea打包镜像参考](http://fandf.top/2022/07/28/IDEA%E6%89%93%E5%8C%85docker%E9%95%9C%E5%83%8F/)
 
 
