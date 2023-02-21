@@ -5,8 +5,6 @@ description: "保持学习，保持热爱"
 header-img: "img/twitter.jpg"
 ---
 
-![](https://i.ibb.co/KXdvpg8/20230129150003.png)
-
 ## 人生如梦亦如幻，朝如晨露暮如霞
 
 > 欢迎来到 fandf 的网络世界。  
