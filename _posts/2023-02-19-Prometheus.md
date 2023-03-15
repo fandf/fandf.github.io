@@ -2,7 +2,7 @@
 layout: post
 title: docker部署Prometheus+Grafana+node-exporter
 date: 2023-02-19
-tags: [docker,Prometheus,Grafana]
+tags: [docker,运维]
 description: 保持学习，保持热爱。
 ---
 ## Prometheus

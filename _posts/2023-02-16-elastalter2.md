@@ -2,7 +2,7 @@
 layout: post
 title: 通过elastalert2对elk中的日志进行邮件报警
 date: 2023-02-16
-tags: [ELK,docker]
+tags: [docker,运维]
 description: 保持学习，保持热爱。
 ---
 
