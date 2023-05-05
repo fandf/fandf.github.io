@@ -1,6 +1,6 @@
 ---
 layout: post
-title: springboot构建docker镜像并推送到阿里云
+title: springboot项目部署到k8s上
 date: 2023-05-04
 tags: [k8s]
 description: 收假了，五天好快啊
