@@ -2,7 +2,7 @@
 layout: post
 title: springboot整合elk7.17.3
 date: 2022-8-20
-tags: [docker, java]
+tags: [docker, springboot]
 description: 保持学习，保持热爱。
 ---
 

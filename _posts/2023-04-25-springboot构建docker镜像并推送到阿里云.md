@@ -2,7 +2,7 @@
 layout: post
 title: springboot构建docker镜像并推送到阿里云
 date: 2023-04-25
-tags: [k8s]
+tags: [k8s,springboot]
 description: 明天开始放5.1假
 ---
 

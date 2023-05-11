@@ -2,7 +2,7 @@
 layout: post
 title: springboot集成skywalking8.5
 date: 2023-05-05
-tags: [k8s]
+tags: [链路追踪,springboot]
 description: 收假第二天
 ---
 

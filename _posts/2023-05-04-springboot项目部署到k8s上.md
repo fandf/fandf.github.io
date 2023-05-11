@@ -2,7 +2,7 @@
 layout: post
 title: springboot项目部署到k8s上
 date: 2023-05-04
-tags: [k8s]
+tags: [k8s,springboot]
 description: 收假了，五天好快啊
 ---
 
